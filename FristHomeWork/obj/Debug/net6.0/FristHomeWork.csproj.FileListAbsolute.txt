@@ -1,0 +1,15 @@
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\bin\Debug\net6.0\FristHomeWork.exe
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\bin\Debug\net6.0\FristHomeWork.deps.json
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\bin\Debug\net6.0\FristHomeWork.runtimeconfig.json
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\bin\Debug\net6.0\FristHomeWork.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\bin\Debug\net6.0\FristHomeWork.pdb
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\FristHomeWork.csproj.AssemblyReference.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\FristHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\FristHomeWork.AssemblyInfoInputs.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\FristHomeWork.AssemblyInfo.cs
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\FristHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\FristHomeWork.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\refint\FristHomeWork.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\FristHomeWork.pdb
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\FristHomeWork.genruntimeconfig.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\FristHomeWork\obj\Debug\net6.0\ref\FristHomeWork.dll
