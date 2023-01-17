@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("2 Hello, World!");
+string username = Console.ReadLine();
+Console.WriteLine("Привяу, ");
+Console.WriteLine(username);
