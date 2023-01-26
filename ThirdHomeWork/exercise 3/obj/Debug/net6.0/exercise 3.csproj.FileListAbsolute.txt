@@ -1,0 +1,15 @@
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\bin\Debug\net6.0\exercise 3.exe
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\bin\Debug\net6.0\exercise 3.deps.json
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\bin\Debug\net6.0\exercise 3.runtimeconfig.json
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\bin\Debug\net6.0\exercise 3.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\bin\Debug\net6.0\exercise 3.pdb
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\exercise 3.csproj.AssemblyReference.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\exercise 3.AssemblyInfoInputs.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\exercise 3.AssemblyInfo.cs
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\exercise 3.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\refint\exercise 3.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\exercise 3.pdb
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\exercise 3.genruntimeconfig.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ThirdHomeWork\exercise 3\obj\Debug\net6.0\ref\exercise 3.dll
