@@ -1,0 +1,15 @@
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\bin\Debug\net6.0\ex3.exe
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\bin\Debug\net6.0\ex3.deps.json
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\bin\Debug\net6.0\ex3.runtimeconfig.json
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\bin\Debug\net6.0\ex3.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\bin\Debug\net6.0\ex3.pdb
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\ex3.csproj.AssemblyReference.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\ex3.AssemblyInfoInputs.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\ex3.AssemblyInfo.cs
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\ex3.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\refint\ex3.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\ex3.pdb
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\ex3.genruntimeconfig.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\ForthHomeWork\ex3\obj\Debug\net6.0\ref\ex3.dll
