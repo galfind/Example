@@ -1,0 +1,15 @@
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\GigaEx.csproj.AssemblyReference.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\GigaEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\GigaEx.AssemblyInfoInputs.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\GigaEx.AssemblyInfo.cs
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\GigaEx.csproj.CoreCompileInputs.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\bin\Debug\net6.0\GigaEx.exe
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\bin\Debug\net6.0\GigaEx.deps.json
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\bin\Debug\net6.0\GigaEx.runtimeconfig.json
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\bin\Debug\net6.0\GigaEx.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\bin\Debug\net6.0\GigaEx.pdb
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\GigaEx.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\refint\GigaEx.dll
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\GigaEx.pdb
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\GigaEx.genruntimeconfig.cache
+C:\Users\m03g9\Desktop\GodHelpMe\Example\SixsthHomeWork\GigaEx\obj\Debug\net6.0\ref\GigaEx.dll
